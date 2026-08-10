@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-mobilnyh-kazino.github.io
+Sitemap: https://reyting-mobilnyh-kazino.github.io/sitemap.xml
